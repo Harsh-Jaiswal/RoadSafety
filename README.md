@@ -4,8 +4,11 @@ Go to Backend and run api_final.py
 
 On windows use:-
 
-set FLASK_APP=api_final.py
-
+<pre><code>set FLASK_APP=api_final.py
 flask run
+</code></pre>
 
-Then go to frontend and open dashboard.html to browse the app
+
+
+
+Then go to frontend folder and open dashboard.html to browse the app
