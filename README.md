@@ -8,7 +8,7 @@ On windows use:-
 flask run
 </code></pre>
 
-https://drive.google.com/file/d/1im9MNU_O_jpOFI1ajqM42Wh6n3_JAxzn/view?usp=sharing - PPT Link
+https://drive.google.com/file/d/1wpom_EoLKvYkQFSU3sZqZYWjHm-Qyz4h/view?usp=sharing - PPT Link
 
 
 Then go to frontend folder and open dashboard.html to browse the app
